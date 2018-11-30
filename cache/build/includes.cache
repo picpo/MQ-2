@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino\\hardware\\arduino\\avr\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino\\hardware\\arduino\\avr\\variants\\standard"
+  },
+  {
+    "Sourcefile": "D:\\My Documents\\我的arduino\\MQ-2\\cache\\build\\sketch\\MQ-2.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]

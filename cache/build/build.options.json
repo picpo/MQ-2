@@ -1,0 +1,10 @@
+{
+  "builtInLibrariesFolders": "E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino\\libraries",
+  "customBuildProperties": "runtime.tools.avr-gcc.path=E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino/hardware/tools/avr,runtime.tools.avrdude.path=E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino/hardware/tools/avr,build.warn_data_percentage=75",
+  "fqbn": "arduino:avr:uno:cpu=atmega328p",
+  "hardwareFolders": "E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino\\hardware,E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino\\packages,E:\\Program Files\\Kenrobot\\KRobot\\data\\packages",
+  "otherLibrariesFolders": "D:\\My Documents\\KRobot\\libraries,E:\\Program Files\\Kenrobot\\KRobot\\data\\packages\\Arduino\\src",
+  "runtime.ide.version": "10612",
+  "sketchLocation": "D:\\My Documents\\我的arduino\\MQ-2\\cache\\MQ-2.ino",
+  "toolsFolders": "E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino/tools-builder,E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino/hardware/tools/avr,E:\\Program Files\\Kenrobot\\KRobot\\data\\arduino/packages"
+}
