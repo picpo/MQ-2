@@ -20,7 +20,7 @@ void setup()
 void loop()
 {
    int val;
-    while((val=analogRead(11))<500){
+    while((val=analogRead(11))<700){
         if(val>=500) break;
     }
    while(1){
